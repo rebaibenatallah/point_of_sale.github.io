@@ -9,7 +9,7 @@ body{
     height: 100vh;
     flex-direction: row-reverse;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-end;
 }
 #container{
     display: flex;
